@@ -99,4 +99,3 @@ Alternatively, if you are using an IDE like Visual Studio, open the project/solu
 * PIN codes are stored in plain text in `Clients.txt`, which is insecure for a real-world application. [cite: 2]
 * The dependency on absolute file paths should be refactored for better portability.
 * The use of `system("cls")` and `system("pause")` might not be portable across all operating systems.
-```
