@@ -1,0 +1,4 @@
+﻿  client.cpp
+C:\C++ Files\atm_project\src\client.cpp(20,45): warning C4101: 'e': unreferenced local variable
+C:\C++ Files\atm_project\src\client.cpp(24,41): warning C4101: 'e': unreferenced local variable
+  atm_project.vcxproj -> C:\C++ Files\atm_project\x64\Debug\atm_project.exe
